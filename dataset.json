@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Denver, Colorado, US",
+  "export_job_id": "4716337b-5fda-4be6-93ce-6fac3fe144b5",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 510996,
+  "location_name": "Denver",
+  "location_type": "city",
+  "repo_name": "restaurant-verified-email-access-in-denver-colorado-us-sample-510996",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/510996/beamstation_510996_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 79,
+  "sample_sha256": "33069703063d259bd2341161dda5ed630344c8f99abf4359bbac3e48943e89f7",
+  "sample_size_bytes": 334098,
+  "total_records": 790,
+  "updated_at": "2026-04-07T22:53:55.624156+00:00"
+}
